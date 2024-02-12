@@ -1,14 +1,14 @@
 
 body {
-    background: white;
+    background: rgb(128, 127, 127);
     color:rgb(40, 61, 131);
     font-family: Arial, Helvetica, sans-serif;
     margin:0;
     padding:0;
 }
 header{
-    background:rgb(228, 228, 228) ;
-    background-image:url(images/Trogan\ web.jpg);
+    background:rgb(58, 57, 57) ;
+    background-image:url(Trogan\ web.jpg);
     background-size: 100%;
     background-position: center;
     height: 300px;
