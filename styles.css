@@ -1,0 +1,67 @@
+
+body {
+    background: white;
+    color:rgb(40, 61, 131);
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+}
+header{
+    background:rgb(228, 228, 228) ;
+    background-image:url(images/Trogan\ web.jpg);
+    background-size: 100%;
+    background-position: center;
+    height: 300px;
+    padding: 20px;
+}
+section{
+    background:rgb(2, 95, 83) ;
+    color:white;
+    padding:20px;
+    display:flex;
+    flex-direction: column;
+}
+div{
+    background:none;
+    margin: auto;
+    width:100px;
+    display: contents;
+}
+    ul{
+        margin:0;
+        padding:0;
+        list-style-type: none;
+    }
+    li{
+    display: inline-block;
+    padding: 5px;
+    margin-right: 50px;
+    }
+footer{
+    background:black;
+    color: white;
+    padding:20px
+    
+}
+li:hover{
+    background-color: rgb(170, 0, 0);
+    border-radius: 6px;
+}
+
+li:first-child{
+margin-left: 0px;
+
+
+}
+a{
+text-decoration: none;
+
+}
+a:hover{
+text-decoration:underline;
+}
+header a{
+color:rgb(223, 223, 223);
+text-decoration: none;
+margin-top: 40px;
+}
